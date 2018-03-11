@@ -1,0 +1,11 @@
+(1h) use textures https://www.youtube.com/watch?v=2cjnzFEBBiA 
+
+terrain toolkit: https://www.youtube.com/watch?v=WU5QDVljnDw, world builder 
+
+multiplayer fps: https://www.youtube.com/watch?v=UK57qdq_lak
+
+shoot: https://www.youtube.com/watch?v=THnivyG0Mvo (raycasts)
+
+survival(a lot of useful stuff): https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+interactive tutorials: https://unity3d.com/learn/tutorials/s/interactive-tutorialshttps://unity3d.com/learn/tutorials/s/interactive-tutorials
