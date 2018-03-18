@@ -1,7 +1,5 @@
 (1h) use textures https://www.youtube.com/watch?v=2cjnzFEBBiA 
 
-terrain toolkit: https://www.youtube.com/watch?v=WU5QDVljnDw, world builder 
-
 multiplayer fps: https://www.youtube.com/watch?v=UK57qdq_lak
 
 shoot: https://www.youtube.com/watch?v=THnivyG0Mvo (raycasts)
