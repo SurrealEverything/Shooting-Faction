@@ -1,11 +1,13 @@
 Vital:
--attach fps controller to character model: gabi/marian
 -terrain: boro
 -shooting mechanics: bogdan
 -multiplayer: gabi
+-attach sounds to character
+-attach & animate gun
 Nice:
 -menu 
 -muzica
 -arme
 -powerups
-Other Ideas:
+Done:
+-attach fps controller to character model: gabi/marian
