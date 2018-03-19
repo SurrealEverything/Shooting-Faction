@@ -2,9 +2,9 @@ Vital:
 -terrain: Boro
 -shooting mechanics: bogdan
 -multiplayer: gabi
--attach & animate gun
+-attach & animate gun: marian
 Nice:
--attach sounds to character
+-attach sounds to character: boro/marian
 -menu
 -muzica: Boro
 -arme
