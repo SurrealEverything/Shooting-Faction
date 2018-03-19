@@ -3,6 +3,7 @@ Vital:
 -shooting mechanics: bogdan
 -multiplayer: gabi
 -attach & animate gun: marian
+-user stories: sandy
 Nice:
 -attach sounds to character: boro/marian
 -menu
